@@ -39,6 +39,7 @@ class Habits extends Component {
             <button className="habits-reset" onClick={this.props.onReset}>
                 Reset All
             </button>
+            <p className='right'>Copyright2022.seran's HabitMake.All rights reserved</p>
         </>  
         );
     }
