@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/habit_make/static/css/main.e5e472fc.css",
+    "main.js": "/habit_make/static/js/main.872f1df0.js",
+    "index.html": "/habit_make/index.html",
+    "main.e5e472fc.css.map": "/habit_make/static/css/main.e5e472fc.css.map",
+    "main.872f1df0.js.map": "/habit_make/static/js/main.872f1df0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e472fc.css",
+    "static/js/main.872f1df0.js"
+  ]
+}
